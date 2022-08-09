@@ -1,0 +1,25 @@
+/* roboto-mono-regular - latin */
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-mono-v22-latin/roboto-mono-v22-latin-regular.woff2') format('woff2');
+}
+
+/* courgette-regular - latin */
+@font-face {
+    font-family: 'Courgette';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/courgette-v13-latin/courgette-v13-latin-regular.woff2') format('woff2');
+}
+
+
+.font-roboto-mono{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.font-courgette{
+    font-family: 'Courgette', monospace;
+}
+
